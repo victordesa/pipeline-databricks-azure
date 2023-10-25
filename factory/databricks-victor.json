@@ -1,0 +1,9 @@
+{
+	"name": "databricks-victor",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a96c8309-b719-41ad-9f77-8d7c096e816a",
+		"tenantId": "376a9512-c2cc-4e4d-a709-3628db18865a"
+	}
+}
